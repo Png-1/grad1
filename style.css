@@ -1,0 +1,22 @@
+body {
+    font-family: Calibry;
+    color: blueviolet;
+}
+
+
+nav{
+    
+    color: navy;
+    
+}
+
+.link-header{
+    margin: 10px;
+}
+
+.link-nav{
+  
+    padding: 1px;
+    margin: 5px;
+    
+}
